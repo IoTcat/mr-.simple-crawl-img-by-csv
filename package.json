@@ -1,0 +1,12 @@
+{
+  "name": "mr-.simple-crawl-img-by-csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:IoTcat/mr-.simple-crawl-img-by-csv.git",
+  "author": "iotcat <i@iotcat.me>",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "request": "^2.88.2"
+  }
+}
